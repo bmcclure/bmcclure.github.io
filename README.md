@@ -1,1 +1,0 @@
-# bmcclure.github.io
