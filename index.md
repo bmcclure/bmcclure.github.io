@@ -16,12 +16,12 @@ I create websites, software, and games:
 - [Volantis Development](https://volantisdev.com/)
 - [Fallout Games](https://falloutgames.com/)
 
-I make electronic music:
+I write and record electronic music:
 
 - [Broken](https://brokenindustry.com/)
 - [Corrupted Memory](https://corruptedmemory.com/)
 
-I'm creating some upcoming web-based services:
+I'm working on some upcoming web-based tools and services:
 
 - [ConfigPi](https://configpi.com/)
 - [DecideBot](https://decidebot.com/)
