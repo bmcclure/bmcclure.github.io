@@ -23,12 +23,12 @@ I write and record electronic music:
 
 I'm working on some upcoming web-based tools and services:
 
-- [ConfigPi](https://configpi.com/)
-- [DecideBot](https://decidebot.com/)
-- [Deploytool.cloud](https://deploytool.cloud/)
-- [Redirector.in](https://redirector.in/)
-- [VST Guide](https://vstguide.com/)
-- [WebManage.io](https://webmanage.io/)
+- [ConfigPi](http://configpi.com/)
+- [DecideBot](http://decidebot.com/)
+- [Deploytool.cloud](http://deploytool.cloud/)
+- [Redirector.in](http://redirector.in/)
+- [VST Guide](http://vstguide.com/)
+- [WebManage.io](http://webmanage.io/)
 
 I contribute to some online development communities:
 
