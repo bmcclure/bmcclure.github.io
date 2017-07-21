@@ -8,7 +8,7 @@ Welcome to the personal site of Ben McClure!
 I write for several blogs:
 
 - [Technology Kills](https://www.technologykills.com/)
-- [SingularityShift](https://www.singularityshift.com/)
+- [Singularity Shift](https://www.singularityshift.com/)
 - [Game Completionist](https://www.gamecompletionist.com/)
 
 I create websites, software, and games:
@@ -21,7 +21,7 @@ I make electronic music:
 - [Broken](https://brokenindustry.com/)
 - [Corrupted Memory](https://corruptedmemory.com/)
 
-I created and maintain some upcoming services:
+I'm creating some upcoming web-based services:
 
 - [ConfigPi](https://configpi.com/)
 - [DecideBot](https://decidebot.com/)
@@ -30,7 +30,7 @@ I created and maintain some upcoming services:
 - [VST Guide](https://vstguide.com/)
 - [WebManage.io](https://webmanage.io/)
 
-I develop software:
+I contribute to some online development communities:
 
 - [bmcclure on GitHub](https://github.com/bmcclure)
 - [bmcclure on Drupal.org](https://www.drupal.org/u/bmcclure)
