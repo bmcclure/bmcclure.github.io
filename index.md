@@ -1,3 +1,6 @@
+---
+title: Ben McClure
+---
 ## Introduction
 
 Welcome to the personal site of Ben McClure!
