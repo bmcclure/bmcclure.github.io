@@ -1,6 +1,6 @@
 ---
 title: Ben McClure
-layout: page
+layout: post
 ---
 ## Introduction
 
