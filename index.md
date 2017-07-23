@@ -36,3 +36,8 @@ I contribute to some online development communities:
 - [bmcclure on Drupal.org](https://www.drupal.org/u/bmcclure)
 - [bmcclure on NPM](https://www.npmjs.com/~bmcclure)
 - [bmcclure on Packagist](https://packagist.org/users/bmcclure/)
+
+Some of my main development projects include:
+
+- [npmq](http://benmcclure.com/node-npmq/)
+- [config-pi](http://configpi.com/)
